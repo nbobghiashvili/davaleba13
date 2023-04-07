@@ -1,0 +1,206 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(bacground.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+     
+}
+.card{
+    width: 200px; 
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.cardr{
+    width: 140px;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.451px;
+    line-height: 27px;
+    color: #FFFFFF;
+
+}
+.img1{
+    border-radius: 200px;
+}
+h6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.container1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.card1{
+    width: 555px;
+    height: 246px;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+.cardb{
+    width: 460px;
+    height: 184px;
+    align-items: center;
+    margin-top: 60px;
+
+}
+.text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 82px;
+    letter-spacing: -4px;
+    color: #FFFFFF;
+}
+p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+header{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    margin: 15px;
+}
+form{
+    
+    width: 100%;
+    height: 184;
+     
+}
+input{
+    width: 100%; 
+    padding: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+ 
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background: #FF3B30;
+    border-radius: 0px 0px 4px 4px;
+    border: none;
+    align-items: center;
+    
+}
+.text1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color:#9B9B9B;
+    margin-top: 25px;
+
+}
+.text3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color:#FFFFFF;
+    margin-top: 25px;
+}
+.container2{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+    align-items: end;
+    
+    
+}
+.cardc{
+    width:243px;
+    display: flex;
+    justify-content: left;
+    margin: 15px;
+    
+}
+.cardd{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.carde{
+    width: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 20px;
+    
+}
+.text2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.menu{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    
+    
+
+}
+
